@@ -1,0 +1,37 @@
+body{
+    background-image: url("img/backgroundGif.gif");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#Descripción{
+    resize: none;
+}
+
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ProtoLogo{
+    margin-top: 60px;
+    margin-left: 2%;
+    background-image: url('img/ProtoLogo.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 110px;
+    position: absolute;
+}
+
+.ProtoLogo2{
+    margin-top: 55px;
+    right: 2%;
+    background-image: url('img/ProtoLogo2.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+}
